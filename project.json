@@ -3,6 +3,7 @@
   "description": "Test project",
   "main": "Main.xaml",
   "dependencies": {
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "UiPath.Excel.Activities": "[2.14.0-preview]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.PDF.Activities": "[3.9.0-preview]",
